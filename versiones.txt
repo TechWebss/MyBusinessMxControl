@@ -1,0 +1,2 @@
+Prueba para la version 1.0.0.3-1.1 de MyBusinessMxControl
+para el updater automatico desde java
