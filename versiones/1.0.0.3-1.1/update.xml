@@ -2,7 +2,7 @@
 <update>
     <instruction>
 	<action>MOVE</action>
-	<file>JupDemo.jar</file>
-	<destination>JupDemo.jar</destination>
+	<file>MyBusinessMxControl.jar</file>
+	<destination>C:\Program Files\MYBUSINESSMXCONTROL\MyBusinessMxControl.jar</destination>
     </instruction>
 </update>
